@@ -1,0 +1,10 @@
+asgiref
+djangorestframework
+Django==4.0.4
+django-heroku
+django-cors-headers
+gunicorn
+psycopg2
+python-decouple
+Pillow
+whitenoise
