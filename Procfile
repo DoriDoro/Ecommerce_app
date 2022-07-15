@@ -1,1 +1,1 @@
-web: gunicorn --pythonpath todo todovegibit_project.wsgi
+web: gunicorn --pythonpath django_backend_project django_backend.wsgi
